@@ -1,22 +1,22 @@
 <!-- 2024-present DiegroSan -->
 <jogos>
   <jogo>
-    <nome>Retroarch 1.17 - E43</nome>
-    <versao>ultima</versao>
+    <nome>Retroarch</nome>
+    <versao>1.17 - E43</versao>
     <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/gcc8/1.17/retroarch</url>
     <plataforma></plataforma>
     <ativo>true</ativo>
   </jogo>
     <jogo>
-    <nome>Retroarch 1.16 - E43</nome>
-    <versao>ultima</versao>
+    <nome>Retroarch</nome>
+    <versao>1.16 - E43</versao>
     <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/gcc8/1.16/retroarch</url>
     <plataforma></plataforma>
     <ativo>true</ativo>
   </jogo>
     <jogo>
-    <nome>Retroarch 1.15 - E43</nome>
-    <versao>ultima</versao>
+    <nome>Retroarch</nome>
+    <versao>1.15 - E43</versao>
     <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/gcc8/1.15/retroarch</url>
     <plataforma></plataforma>
     <ativo>true</ativo>
