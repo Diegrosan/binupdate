@@ -21,5 +21,12 @@
     <plataforma></plataforma>
     <ativo>true</ativo>
   </jogo>
+    <jogo>
+    <nome>Select Retroarch</nome>
+    <versao>Download</versao>
+    <url></url>
+    <plataforma></plataforma>
+    <ativo>true</ativo>
+  </jogo>
   
 </jogos>
