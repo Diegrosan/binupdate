@@ -1,0 +1,17 @@
+<!-- 2024-present DiegroSan -->
+<jogos>
+  <jogo>
+    <nome>Retroarch</nome>
+    <versao>1.16 - E43</versao>
+    <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/aarch64/1.16/retroarch</url>
+    <plataforma>aarch64</plataforma>
+    <ativo>true</ativo>
+  </jogo>
+    <jogo>
+    <nome>Retroarch</nome>
+    <versao>1.16 - E43</versao>
+    <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/ng.aarch64/1.17/retroarch</url>
+    <plataforma>ng.aarch64</plataforma>
+    <ativo>true</ativo>
+  </jogo>
+</jogos>
