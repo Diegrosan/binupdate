@@ -3,7 +3,7 @@
 <jogo>
     <nome>Exit, Sair. salir</nome>
     <versao></versao>
-    <url></url>
+    <url>sair</url>
     <plataforma></plataforma>
     <ativo>true</ativo>
   </jogo>
