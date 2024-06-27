@@ -2,16 +2,58 @@
 <jogos>
   <jogo>
     <nome>Retroarch</nome>
-    <versao>1.16 - E43</versao>
-    <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/aarch64/1.16/retroarch</url>
-    <plataforma>aarch64</plataforma>
+    <versao>1.14</versao>
+    <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/ng.aarch64/1.14/retroarch</url>
+    <plataforma>ng.aarch64</plataforma>
+    <ativo>true</ativo>
+  </jogo>
+  <jogo>
+    <nome>Retroarch</nome>
+    <versao>1.16.0.3</versao>
+    <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/ng.aarch64/1.16.0.3/retroarch</url>
+    <plataforma>ng.aarch64</plataforma>
+    <ativo>true</ativo>
+  </jogo>
+  <jogo>
+    <nome>Retroarch</nome>
+    <versao>1.17</versao>
+    <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/ng.aarch64/1.17/retroarch</url>
+    <plataforma>ng.aarch64</plataforma>
+    <ativo>true</ativo>
+  </jogo>
+  <jogo>
+    <nome>Retroarch</nome>
+    <versao>1.18</versao>
+    <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/ng.aarch64/1.18/retroarch</url>
+    <plataforma>ng.aarch64</plataforma>
     <ativo>true</ativo>
   </jogo>
     <jogo>
     <nome>Retroarch</nome>
-    <versao>1.17 - E43</versao>
-    <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/ng.aarch64/1.17/retroarch</url>
-    <plataforma>ng.aarch64</plataforma>
+    <versao>1.14</versao>
+    <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/aarch64/1.14/retroarch</url>
+    <plataforma>aarch64</plataforma>
+    <ativo>true</ativo>
+  </jogo>
+  <jogo>
+    <nome>Retroarch</nome>
+    <versao>1.16.0.3</versao>
+    <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/aarch64/1.16.0.3/retroarch</url>
+    <plataforma>aarch64</plataforma>
+    <ativo>true</ativo>
+  </jogo>
+  <jogo>
+    <nome>Retroarch</nome>
+    <versao>1.17</versao>
+    <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/aarch64/1.17/retroarch</url>
+    <plataforma>aarch64</plataforma>
+    <ativo>true</ativo>
+  </jogo>
+  <jogo>
+    <nome>Retroarch</nome>
+    <versao>1.18</versao>
+    <url>https://raw.githubusercontent.com/Diegrosan/binupdate/main/ng.aarch64/1.18/retroarch</url>
+    <plataforma>aarch64</plataforma>
     <ativo>true</ativo>
   </jogo>
 </jogos>
