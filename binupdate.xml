@@ -1,5 +1,12 @@
 <!-- 2024-present DiegroSan -->
 <jogos>
+<jogo>
+    <nome>Exit, Sair. salir</nome>
+    <versao></versao>
+    <url></url>
+    <plataforma></plataforma>
+    <ativo>true</ativo>
+  </jogo>
   <jogo>
     <nome>Retroarch</nome>
     <versao>1.14</versao>
